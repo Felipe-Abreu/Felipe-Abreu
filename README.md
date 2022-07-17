@@ -1,12 +1,12 @@
 ### Olá mundo! Eu sou o Felipe Abreu 👋
 
-- 🔭 Atualmente estou trabalhando no meu crescimento de conhecimento para back-end
-- 🌱 Estudando Java, Spring e Kotlin
+- 🔭 Atualmente estou trabalhando no meu crescimento de conhecimento para back-end;
+- 🌱 Estudando Java, Spring e Kotlin.
 
 <div align="center">
   <a href="https://github.com/felipe-abreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-abreu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-abreu&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=felipe-abreu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-abreu&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
 
